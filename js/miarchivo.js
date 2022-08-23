@@ -9,7 +9,7 @@ while (isNaN(numEntero)) {
 }
 
 for (let i = 0; i < 15; i++) {
-    document.write(numEntero);
+    document.write(numEntero + "<br>");
 }
 
 //Algoritmo que escriba la tabla de multiplicar de un número ingresado por el usuario:
