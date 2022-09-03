@@ -104,4 +104,5 @@ switch(pedido) {
     break;
     case "Babá": alert("Información del producto: " + "\n" + JSON.stringify(productosDePanaderia[23]));
     break;
+    default: alert("Producto no encontrado. Vuelva a recargar la página.")
 }
